@@ -5,7 +5,7 @@ using UnityEngine.Audio;
 
 public class audioFood : MonoBehaviour
 {
-    //public AudioSource audioSource;
+   public AudioSource audioSource;
     //public AudioClip clip;
     //public float volume = 1f;
 
